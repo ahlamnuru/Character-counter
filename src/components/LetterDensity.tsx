@@ -27,7 +27,7 @@ function LetterDensity() {
 
               <div className="h-3 flex-1 rounded-full bg-line">
                 <div
-                  className="h-3 rounded-full bg-orange-400"
+                  className="h-3 rounded-full bg-purple-300"
                   style={{ width: `${item.percent}%` }}
                 />
               </div>
