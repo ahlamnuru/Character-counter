@@ -35,8 +35,8 @@ pnpm dev
 
 ## Links
 
-Live site: https://character-counter-shiera1.vercel.app/
+Live site: [https://character-counter-shiera1.vercel.app/]
 
 Solution for Frontend Mentor: [(https://www.frontendmentor.io/challenges/character-counter-znSgeWs_i6)]
  
- Github solution: https://github.com/ahlamnuru/Character-counter
+ Github solution: [https://github.com/ahlamnuru/Character-counter]
